@@ -1,7 +1,7 @@
 [Syllabus](README.md) |
 [Slides and Assignments](assignments/README.md) |
 [Project](assignments/project.md) |
-[Instructor](https://www.rit.edu/directory/efgics-erik-golen) 
+[Instructor](https://www.rit.edu/computing/directory/eskics-ezgi-siir-kibris) 
 
 ## Course Description
 A foundational course in data science, emphasizing both concepts and techniques. The course provides an overview of data analysis tasks and the associated challenges, spanning data preprocessing, model building, model validation, and evaluation. Major families of data analysis techniques covered include classification, clustering, association analysis, anomaly detection, and statistical testing. This is a practice-driven course as it includes a series of programming assignments that will involve the implementation of specific techniques on practical datasets from diverse application domains, reinforcing the concepts and techniques covered in lectures. The best way to learn an algorithm is to implement and apply it yourself. You will experience that in this course.
