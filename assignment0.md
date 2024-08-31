@@ -1,7 +1,7 @@
 [Syllabus](../README.md) |
 [Slides and Assignments](README.md) |
 [Project](project.md) |
-[Lecturer](https://www.rit.edu/directory/efgics-erik-golen) 
+[Instructor](https://www.rit.edu/computing/directory/eskics-ezgi-siir-kibris) 
 
 
 ## Python Basics
@@ -68,5 +68,5 @@
  DSCI-633> git push
  ```
  
- ### 5. Add your information to [[Google sheet][(https://docs.google.com/spreadsheets/d/1Fs5QjVfods7exikYl2zmgLmBFra9R1A1E0wvHEAQUg4/edit?usp=sharing)]
+ ### 5. Add your information to [[Google sheet](https://docs.google.com/spreadsheets/d/1Fs5QjVfods7exikYl2zmgLmBFra9R1A1E0wvHEAQUg4/edit?usp=sharing)
  - Add your github repo link (along with your RIT username and Github username) to the Google sheet.
