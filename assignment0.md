@@ -35,12 +35,12 @@
  - (2) Initiate the new private repo:
  ![](../img/init_repo.png?raw=yes)
  
- - (3) Invite the instructor and the TA as collaborators (GitHub ID: **efgics, johnmelwin**):
+ - (3) Invite the instructor as collaborators (ezgisiir):
  ![](../img/invite.png?raw=yes)
 
 ### 2. Clone the **fds** repo to your local machine.
  ```
- git clone https://github.com/efgics/fds.git
+ git clone https://github.com/ezgisiir/fds
  ```
 
 ### 3. Save username and token in git.
