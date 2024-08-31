@@ -1,6 +1,4 @@
 [Syllabus](README.md) |
-[Slides and Assignments](assignments/README.md) |
-[Project](assignments/project.md) |
 [Instructor](https://www.rit.edu/computing/directory/eskics-ezgi-siir-kibris) 
 
 ## Course Description
