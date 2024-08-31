@@ -1,4 +1,3 @@
-[Syllabus](../README.md) |
 [Instructor](https://www.rit.edu/computing/directory/eskics-ezgi-siir-kibris) 
 
 
