@@ -27,7 +27,7 @@ Input:
 Output:
 - Prediction probabilities of each input data point belonging to each categories. pd.DataFrame(list of probabilities, columns = self.classes_).
 
-### Test my_NB classifier with [A4.py](Naive Bayes/A5.py)
+### Test my_NB classifier with [A4.py](NaiveBayes/A5.py)
 Expected output:
 ```
 (base) NaiveBayes % python A4.py 
