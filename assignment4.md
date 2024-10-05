@@ -13,14 +13,14 @@ Inputs:
 - X: pd.DataFrame, independent variables, each value is a category of type str.
 - y: list, np.array or pd.Series, dependent variables, each value is a category of type int or str.
 
-#### Implement my_NB.predict() function in [my_NB.py](Naive Bayes/my_NB.py)
+#### Implement my_NB.predict() function in [my_NB.py](NaiveBayes/my_NB.py)
 Input:
 - X: pd.DataFrame, independent variables, each value is a category of type str.
 
 Output:
 - Predicted categories of each input data point. List containing elements of type str or int.
 
-#### Implement my_NB.predict_proba() function in [my_NB.py](Naive Bayes/my_NB.py)
+#### Implement my_NB.predict_proba() function in [my_NB.py](NaiveBayes/my_NB.py)
 Input:
 - X: pd.DataFrame, independent variables, each value is a category of type str.
 
@@ -69,6 +69,6 @@ cochlear_poss_noise     0.601495
  
   
 ## Hint
- - If you would hints or to figure out how to get started, you can use [my_NB_hint.py](Naive Bayes/my_NB_hint.py).
+ - If you would hints or to figure out how to get started, you can use [my_NB_hint.py](NaiveBayes/my_NB_hint.py).
  - [my_NB_hint.py](Naive Bayes/my_NB_hint.py) has the predict() and predict_proba() functions already implemented. You will only need to complete the fit() function.
  - If you use the hint file, remember to rename it as my_NB.py before submitting.
