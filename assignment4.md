@@ -1,9 +1,3 @@
-[<img width=900 src="../img/title.png?raw=yes">](../README.md)   
-[Syllabus](../README.md) |
-[Slides and Assignments](README.md) |
-[Project](project.md) |
-[Lecturer](https://www.rit.edu/directory/efgics-erik-golen) 
-
 ## Naive Bayes Classifier
 
 ### Make sure your repo is up-to-date
