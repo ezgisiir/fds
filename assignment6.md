@@ -1,9 +1,3 @@
-[<img width=900 src="../img/title.png?raw=yes">](../README.md)   
-[Syllabus](../README.md) |
-[Slides and Assignments](README.md) |
-[Project](project.md) |
-[Lecturer](https://www.rit.edu/directory/efgics-erik-golen) 
-
 ## K Nearest Neighbor
 
 ### Make sure your repo is up-to-date
@@ -37,7 +31,7 @@ Example:
 - then the prob for that data point is {"1": 4/5, "2": 1/5}
 - return probs = pd.DataFrame(list of prob, columns = self.classes_)
 
-### Test my_KNN classifier with [A5.py](NearestNeighbor/A5.py)
+### Test my_KNN classifier with [A6.py](NearestNeighbor/A6.py)
  - It is expected to perform the same with [sklearn.neighbors.KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) with inputs algorithm = 'brute'.
  - Expected output:
  ```
