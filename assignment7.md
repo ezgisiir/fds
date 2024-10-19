@@ -13,7 +13,7 @@ You will be using two impurity metrics, Gini and entropy, and max depth values o
 
  Expected output:
  ```
- (base) DecisionTree % python A6.py
+ (base) DecisionTree % python A7.py
 
 Impurity Metric = gini , Max Depth =  2
 {'no-recurrence-events': {'prec': 0.7578125, 'recall': 0.9651741293532339, 'f1': 0.8490153172866521}, 'recurrence-events': {'prec': 0.7666666666666667, 'recall': 0.27058823529411763, 'f1': 0.39999999999999997}}
