@@ -1,9 +1,3 @@
-[<img width=900 src="../img/title.png?raw=yes">](../README.md)   
-[Syllabus](../README.md) |
-[Slides and Assignments](README.md) |
-[Project](project.md) |
-[Lecturer](https://www.rit.edu/directory/efgics-erik-golen) 
-
 ## K-Means Clustering
 
 ### Make sure your repo is up-to-date
@@ -37,7 +31,7 @@ Output:
  
  - Example output:
  ```
- (base) Kmeans % python A8.py 
+ (base) Kmeans % python A9.py 
 Classes:
 [('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-setosa', 0), ('Iris-versicolor', 2), ('Iris-versicolor', 1), ('Iris-versicolor', 2), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 2), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-versicolor', 1), ('Iris-virginica', 2), ('Iris-virginica', 1), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 1), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 1), ('Iris-virginica', 1), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 1), ('Iris-virginica', 2), ('Iris-virginica', 1), ('Iris-virginica', 1), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 1), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 1), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 1), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 1), ('Iris-virginica', 2), ('Iris-virginica', 2), ('Iris-virginica', 1)]
 
@@ -59,7 +53,7 @@ Cluster predictions:
 
 ## Grading Policy
  - Importing additional packages such as sklearn to perform clustering or making cluster predictions is not allowed.
- - 4 (out of 7) points will be received if A8.py successfully runs and makes predictions.
+ - 4 (out of 7) points will be received if A9.py successfully runs and makes predictions.
  - The remaining 3 points will be given based on the percentage of same predictions with the correct implementation.
    
 ## Hint
