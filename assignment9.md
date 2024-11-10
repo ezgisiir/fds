@@ -25,7 +25,7 @@ Input:
 Output:
 - dists = list of [dist to centroid 1, dist to centroid 2, ...]
 
-### Test my_KMeans Algorithm with [A9.py](Kmeans/A9.py)
+### Test my_KMeans Algorithm with [A9.py](KMeans/A9.py)
 
  - It is expected to perform similar to [sklearn.cluster.KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) with input (algorithm = "full").
  
