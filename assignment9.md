@@ -57,5 +57,5 @@ Cluster predictions:
  - The remaining 3 points will be given based on the percentage of same predictions with the correct implementation.
    
 ## Hint
- - Feel free to use the hint file to help you get started [my_KMeans_hint.py](Kmeans/my_KMeans_hint.py).
+ - Feel free to use the hint file to help you get started [my_KMeans_hint.py](KMeans/my_KMeans_hint.py).
  - If you use it, remember to rename it as my_KMeans.py before submitting. 
