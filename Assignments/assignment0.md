@@ -1,6 +1,3 @@
-[Instructor](https://www.rit.edu/computing/directory/eskics-ezgi-siir-kibris)
-
-
 ## Python Basics
 
 ### 0. Learn Python basics on [Codecademy](https://www.codecademy.com/learn/learn-python) (free version), [w3schools](https://www.w3schools.com/python/), and the [tutorial from the textbook](http://www.cse.msu.edu/~ptan/dmbook/tutorials/tutorial1/tutorial1.html)
