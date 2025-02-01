@@ -12,7 +12,7 @@ The idea in this assignment is to see the effect that normalization techniques m
 You will be implementing each of the four normalization techniques from lecture and a stratified sampling function.
 
 ### Test my_preprocess with [A3.py](Preprocess/A3.py)
-A2.py will need to be modified so that it builds a Decision Tree model each of the four normalization techniques using the training data and then performs predictions on the test data.
+A3.py will need to be modified so that it builds a Decision Tree model each of the four normalization techniques using the training data and then performs predictions on the test data.
 
 The output below shows summary statistics of the sepal lengths of the test data, the original iris class distribution, and the expected output for all of the normalizers.
 ```
