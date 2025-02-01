@@ -8,7 +8,7 @@ Assignment code will be added weekly, so please pull from this repo first and co
 ### Build your own preprocessing
 The idea in this assignment is to see the effect that normalization techniques may have on model prediction results. There are four normalization techniques that were presented in lecture that you will be implementing: Min-Max, Standard Score, L1 Normalization, and L2 Normalization. In addition, you will be writing a stratified sampling function in order to provide a sample that is hopefully representative of the full iris data set.
 
-#### Complete the code in [my_preprocess.py](Preprocess/my_preprocess.py)
+#### Complete the code in [my_preprocess.py](main/Preprocess/my_preprocess.py)
 You will be implementing each of the four normalization techniques from lecture and a stratified sampling function.
 
 ### Test my_preprocess with [A3.py](Preprocess/A3.py)
