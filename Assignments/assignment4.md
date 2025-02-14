@@ -13,7 +13,7 @@ Hint: compute self.confusion once and use it to calculate other model performanc
 
 Expected output:
 ```
-(base) Evaluation % python A3.py
+(base) Evaluation % python A4.py
 ['Iris-setosa' 'Iris-setosa' 'Iris-setosa' 'Iris-setosa' 'Iris-setosa'
  'Iris-setosa' 'Iris-setosa' 'Iris-setosa' 'Iris-setosa' 'Iris-setosa'
  'Iris-setosa' 'Iris-setosa' 'Iris-setosa' 'Iris-setosa' 'Iris-setosa'
