@@ -6,7 +6,7 @@ Assignment code is added during the semester, so please pull from this repo firs
 
 ### Build your own evaluation methods
 
-#### Implement every function in [my_evaluation.py](Evaluation/my_evaluation.py)
+#### Implement every function in [my_evaluation.py](Assignments/Evaluation/my_evaluation.py)
 Hint: compute self.confusion once and use it to calculate other model performance metrics, including precision, recall, F1 score, as well as macro, micro, and weighted F1 score.
 
 ### Test my_evaluation Algorithm with [A4.py](Evaluation/A4.py)
