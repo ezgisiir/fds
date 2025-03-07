@@ -7,7 +7,7 @@ Assignment code is pushed weekly during the semester, so please pull from this r
 ### Perform an analysis using DecisionTreeClassifier
 This assignment will be combining the model evaluation code you wrote for Assignment 3 (my_evaluation.py) with creating several decision tree models using sklearn's DecisionTreeClassifier. You will be using the breast_cancer data set. Be sure to go through its README file prior to working on the code so that you understand what the data set is about.
 
-To complete this assignment, you will need to modify [A7.py](DecisionTree/A7.py) so that it creates several DecisionTreeClassifier models and prints out performance results for each model, including precision, recall, and F1 score for both class values, recurrence-events and no-recurrence-events.
+To complete this assignment, you will need to modify [A7.py](Decision Tree/A7.py) so that it creates several DecisionTreeClassifier models and prints out performance results for each model, including precision, recall, and F1 score for both class values, recurrence-events and no-recurrence-events.
 
 You will be using two impurity metrics, Gini and entropy, and max depth values of 2, 3, 4, and 5, for a total of 8 decision tree classifier models. See the output below for results from two of them.
 
